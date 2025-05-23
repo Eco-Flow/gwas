@@ -21,6 +21,8 @@
 
 **nf-core/gwas** is a bioinformatics pipeline that ...
 
+REMOVE THIS LINE
+
 <!-- TODO nf-core:
    Complete this sentence with a 2-3 sentence summary of what types of data the pipeline ingests, a brief overview of the
    major pipeline sections and the types of output it produces. You're giving an overview to someone new
